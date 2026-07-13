@@ -88,7 +88,7 @@ A collection of algorithms and data structures including sorting algorithms, bin
 
 - UI/UX Designer (Freelance)
 - DEPI Graduate – UI/UX Track
-- Frontend Trainee
+- DEPI Graduate – Angular Track
 - Backend (.NET) Trainee
 - ICPC Problem Solver
 - ECPC Qualifications Participant
@@ -97,7 +97,7 @@ A collection of algorithms and data structures including sorting algorithms, bin
 
 ## Resume
 
-https://drive.google.com/drive/folders/1C4kP0a0wURbNjtRQ8B4fLKn0AZ1H_h83
+https://drive.google.com/drive/folders/11T0_m7fDe6HXDykz24Zn20VYJMIwlETY?hl=ar
 
 ---
 
